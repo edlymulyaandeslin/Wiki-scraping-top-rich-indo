@@ -1,0 +1,524 @@
+2026-10-05 19:06:15: Hai boss, program dijalankan!!!
+2026-10-05 19:06:19: Hai boss, program dijalankan!!!
+2026-10-05 20:10:16: Hai boss, program dijalankan!!!
+2026-10-05 20:43:20: Hai boss, program dijalankan!!!
+2026-10-05 20:44:16: Hai boss, program dijalankan!!!
+2026-10-05 20:45:36: Hai boss, program dijalankan!!!
+2026-10-05 20:48:04: Hai boss, program dijalankan!!!
+2026-10-05 20:48:34: Hai boss, program dijalankan!!!
+2026-10-05 20:49:15: Hai boss, program dijalankan!!!
+2026-10-05 20:50:59: Hai boss, program dijalankan!!!
+2026-10-05 20:52:04: Hai boss, program dijalankan!!!
+2026-10-05 20:53:00: Hai boss, program dijalankan!!!
+2026-10-05 20:56:00: Hai boss, program dijalankan!!!
+2026-10-05 20:57:24: Hai boss, program dijalankan!!!
+2026-10-05 21:05:36: Hai boss, program dijalankan!!!
+2026-10-05 21:06:22: Hai boss, program dijalankan!!!
+2026-10-05 21:07:24: Hai boss, program dijalankan!!!
+2026-10-05 21:08:37: Hai Mr Lin,ini top 5 orang terkaya di indonesia 2025!!!
+2026-10-05 21:11:58: Hai Boss
+2026-10-05 21:11:58: Ini Top 5 orang terkaya di indonesia 2025!!!
+2026-10-05 21:11:58: by Wikipedia
+2026-10-05 21:13:18: Hai Boss
+2026-10-05 21:13:18: Top 5 orang terkaya di indonesia!!!
+2026-10-05 21:13:18: tahun 2025
+2026-10-05 21:13:18: by Wikipedia
+2026-10-05 21:14:17: Script running...
+2026-10-05 21:14:17: Top 5 orang terkaya di indonesia!!!
+2026-10-05 21:14:17: tahun 2025
+2026-10-05 21:14:17: by Wikipedia
+2026-10-05 21:16:41: Script running...
+2026-10-05 21:16:41: Top 5 orang terkaya di indonesia!!!
+2026-10-05 21:16:41: tahun 2025
+2026-10-05 21:16:41: by Wikipedia
+2026-10-07 23:40:37: Script running...
+2026-10-07 23:40:37: Top 5 orang terkaya di indonesia!!!
+2026-10-07 23:40:37: tahun 2025
+2026-10-07 23:40:37: by Wikipedia
+2026-10-08 00:19:01: Script running...
+2026-10-08 00:19:01: Top 5 orang terkaya di indonesia!!!
+2026-10-08 00:19:01: tahun 2025
+2026-10-08 00:19:01: by Wikipedia
+2026-10-08 00:19:26: Script running...
+2026-10-08 00:19:26: Top 5 orang terkaya di indonesia!!!
+2026-10-08 00:19:26: tahun 2025
+2026-10-08 00:19:26: by Wikipedia
+2026-10-08 00:22:11: Script running...
+2026-10-08 00:22:11: Top 5 orang terkaya di indonesia!!!
+2026-10-08 00:22:11: tahun 2025
+2026-10-08 00:22:11: by Wikipedia
+2026-10-08 00:22:12: Load to bronze layer
+2026-10-08 00:26:38: Script running...
+2026-10-08 00:26:38: Top 5 orang terkaya di indonesia!!!
+2026-10-08 00:26:38: tahun 2025
+2026-10-08 00:26:38: by Wikipedia
+2026-10-08 00:26:38: Load to bronze layer
+2026-10-08 00:31:57: Extracting data from https://id.wikipedia.org/wiki/Daftar_tokoh_Indonesia_menurut_kekayaan
+2026-10-08 00:31:58: Load to bronze layer
+2026-10-08 00:36:30: Extracting data from https://id.wikipedia.org/wiki/Daftar_tokoh_Indonesia_menurut_kekayaan
+2026-10-08 00:36:31: Load to bronze layer
+2026-10-08 00:40:19: Extracting data from https://id.wikipedia.org/wiki/Daftar_tokoh_Indonesia_menurut_kekayaan
+2026-10-08 00:40:21: Load to bronze layer
+2026-10-08 00:58:00: Extracting data from https://id.wikipedia.org/wiki/Daftar_tokoh_Indonesia_menurut_kekayaan
+2026-10-08 01:00:27: Extracting data from https://id.wikipedia.org/wiki/Daftar_tokoh_Indonesia_menurut_kekayaan
+2026-10-08 01:00:59: Extracting data from https://id.wikipedia.org/wiki/Daftar_tokoh_Indonesia_menurut_kekayaan
+2026-10-08 01:00:59: Load to bronze layer
+2026-10-08 01:03:40: Extracting data from https://id.wikipedia.org/wiki/Daftar_tokoh_Indonesia_menurut_kekayaan
+2026-10-08 01:03:45: Load to bronze layer
+2026-10-08 01:08:50: Extracting data from https://id.wikipedia.org/wiki/Daftar_tokoh_Indonesia_menurut_kekayaan
+2026-10-08 01:08:50: processing year - 2021
+2026-10-08 01:08:52: Load to bronze layer
+2026-10-08 01:08:53: processing year - 2022
+2026-10-08 01:08:59: Load to bronze layer
+2026-10-08 01:09:00: processing year - 2023
+2026-10-08 01:09:01: Load to bronze layer
+2026-10-08 01:09:02: processing year - 2024
+2026-10-08 01:09:06: Load to bronze layer
+2026-10-08 01:09:06: processing year - 2025
+2026-10-08 01:09:10: Load to bronze layer
+2026-10-08 01:12:18: Extracting data from https://id.wikipedia.org/wiki/Daftar_tokoh_Indonesia_menurut_kekayaan
+2026-10-08 01:12:18: processing year - 2021
+2026-10-08 01:12:19: Load to bronze layer
+2026-10-08 01:12:19: --------------------
+2026-10-08 01:12:19: processing year - 2022
+2026-10-08 01:12:21: Load to bronze layer
+2026-10-08 01:12:21: --------------------
+2026-10-08 01:12:21: processing year - 2023
+2026-10-08 01:12:22: Load to bronze layer
+2026-10-08 01:12:22: --------------------
+2026-10-08 01:12:22: processing year - 2024
+2026-10-08 01:12:23: Load to bronze layer
+2026-10-08 01:12:23: --------------------
+2026-10-08 01:12:23: processing year - 2025
+2026-10-08 01:12:25: Load to bronze layer
+2026-10-08 01:12:26: --------------------
+2026-10-08 01:12:26: Extracting Done
+2026-10-08 01:42:30: Extracting data from https://id.wikipedia.org/wiki/Daftar_tokoh_Indonesia_menurut_kekayaan
+2026-10-08 01:42:30: processing year - 2021
+2026-10-08 01:42:31: Load to bronze layer
+2026-10-08 01:42:31: --------------------
+2026-10-08 01:42:31: processing year - 2022
+2026-10-08 01:42:31: Load to bronze layer
+2026-10-08 01:42:32: --------------------
+2026-10-08 01:42:32: processing year - 2023
+2026-10-08 01:42:32: Load to bronze layer
+2026-10-08 01:42:32: --------------------
+2026-10-08 01:42:32: processing year - 2024
+2026-10-08 01:42:33: Load to bronze layer
+2026-10-08 01:42:33: --------------------
+2026-10-08 01:42:33: processing year - 2025
+2026-10-08 01:42:33: Load to bronze layer
+2026-10-08 01:42:34: --------------------
+2026-10-08 01:42:34: Extracting Done
+2026-10-08 01:48:23: Extracting data from https://id.wikipedia.org/wiki/Daftar_tokoh_Indonesia_menurut_kekayaan
+2026-10-08 01:48:23: processing year - 2021
+2026-10-08 01:48:24: Load to bronze layer
+2026-10-08 01:48:24: --------------------
+2026-10-08 01:48:24: Extracting Done
+2026-10-08 01:49:10: Extracting data from https://id.wikipedia.org/wiki/Daftar_tokoh_Indonesia_menurut_kekayaan
+2026-10-08 01:49:10: processing year - 2021
+2026-10-08 01:49:11: Load to bronze layer
+2026-10-08 01:49:11: --------------------
+2026-10-08 01:49:11: Extracting Done
+2026-10-08 01:49:38: Extracting data from https://id.wikipedia.org/wiki/Daftar_tokoh_Indonesia_menurut_kekayaan
+2026-10-08 01:49:38: processing year - 2021
+2026-10-08 01:49:39: Load to bronze layer
+2026-10-08 01:49:39: --------------------
+2026-10-08 01:49:39: Extracting Done
+2026-10-08 01:51:38: Extracting data from https://id.wikipedia.org/wiki/Daftar_tokoh_Indonesia_menurut_kekayaan
+2026-10-08 01:51:38: processing year - 2021
+2026-10-08 01:51:38: Load to bronze layer
+2026-10-08 01:51:38: --------------------
+2026-10-08 01:51:38: Extracting Done
+2026-10-08 01:53:10: Extracting data from https://id.wikipedia.org/wiki/Daftar_tokoh_Indonesia_menurut_kekayaan
+2026-10-08 01:53:10: processing year - 2021
+2026-10-08 01:53:10: Load to bronze layer
+2026-10-08 01:53:10: --------------------
+2026-10-08 01:53:10: Extracting Done
+2026-10-08 02:04:21: Extracting data from https://id.wikipedia.org/wiki/Daftar_tokoh_Indonesia_menurut_kekayaan
+2026-10-08 02:04:21: processing year - 2021
+2026-10-08 02:04:22: Load to bronze layer
+2026-10-08 02:04:22: --------------------
+2026-10-08 02:04:22: Extracting Done
+2026-10-08 02:05:00: Extracting data from https://id.wikipedia.org/wiki/Daftar_tokoh_Indonesia_menurut_kekayaan
+2026-10-08 02:05:00: processing year - 2021
+2026-10-08 02:05:00: Load to bronze layer
+2026-10-08 02:05:00: --------------------
+2026-10-08 02:05:00: Extracting Done
+2026-10-08 02:06:55: Extracting data from https://id.wikipedia.org/wiki/Daftar_tokoh_Indonesia_menurut_kekayaan
+2026-10-08 02:06:55: processing year - 2021
+2026-10-08 02:06:56: Load to bronze layer
+2026-10-08 02:06:56: --------------------
+2026-10-08 02:06:56: Extracting Done
+2026-10-08 02:07:41: Extracting data from https://id.wikipedia.org/wiki/Daftar_tokoh_Indonesia_menurut_kekayaan
+2026-10-08 02:07:41: processing year - 2018
+2026-10-08 02:12:55: Extracting data from https://id.wikipedia.org/wiki/Daftar_tokoh_Indonesia_menurut_kekayaan
+2026-10-08 02:12:55: processing year - 2018
+2026-10-08 02:13:19: Extracting data from https://id.wikipedia.org/wiki/Daftar_tokoh_Indonesia_menurut_kekayaan
+2026-10-08 02:13:19: processing year - 2018
+2026-10-08 02:16:27: Extracting data from https://id.wikipedia.org/wiki/Daftar_tokoh_Indonesia_menurut_kekayaan
+2026-10-08 02:16:27: processing year - 2018
+2026-10-08 02:16:28: Data 2018 not found
+2026-10-08 02:16:28: processing year - 2019
+2026-10-08 02:16:28: Load to bronze layer
+2026-10-08 02:16:28: --------------------
+2026-10-08 02:16:28: Extracting Done
+2026-10-08 02:17:44: Extracting data from https://id.wikipedia.org/wiki/Daftar_tokoh_Indonesia_menurut_kekayaan
+2026-10-08 02:17:44: Processing year - 2018
+2026-10-08 02:17:44: Data 2018 not found
+2026-10-08 02:17:44: Processing year - 2019
+2026-10-08 02:17:45: Load to bronze layer
+2026-10-08 02:17:45: --------------------
+2026-10-08 02:17:45: Extracting Done
+2026-10-08 02:19:53: Extracting data from https://id.wikipedia.org/wiki/Daftar_tokoh_Indonesia_menurut_kekayaan
+2026-10-08 02:19:53: Processing year - 2018
+2026-10-08 02:19:53: Data 2018 not found
+2026-10-08 02:19:53: Processing year - 2019
+2026-10-08 02:19:54: Load to bronze layer
+2026-10-08 02:19:54: --------------------
+2026-10-08 02:19:54: Extracting Done
+2026-10-08 02:20:27: Extracting data from https://id.wikipedia.org/wiki/Daftar_tokoh_Indonesia_menurut_kekayaan
+2026-10-08 02:20:27: Processing year - 2018
+2026-10-08 02:20:27: Data 2018 not found
+2026-10-08 02:20:27: Processing year - 2019
+2026-10-08 02:20:28: Load to bronze layer
+2026-10-08 02:20:28: --------------------
+2026-10-08 02:20:28: Extracting Done
+2026-10-08 02:23:04: Extracting data from https://id.wikipedia.org/wiki/Daftar_tokoh_Indonesia_menurut_kekayaan
+2026-10-08 02:23:04: Processing year - 2006
+2026-10-08 02:24:54: Extracting data from https://id.wikipedia.org/wiki/Daftar_tokoh_Indonesia_menurut_kekayaan
+2026-10-08 02:24:54: Processing year - 2006
+2026-10-08 02:25:27: Extracting data from https://id.wikipedia.org/wiki/Daftar_tokoh_Indonesia_menurut_kekayaan
+2026-10-08 02:25:27: Processing year - 2006
+2026-10-08 02:28:05: Extracting data from https://id.wikipedia.org/wiki/Daftar_tokoh_Indonesia_menurut_kekayaan
+2026-10-08 02:28:05: Processing year - 2006
+2026-10-08 02:28:06: Load 2006 to bronze layer
+2026-10-08 02:28:06: --------------------
+2026-10-08 02:28:06: Processing year - 2007
+2026-10-08 02:28:06: Load 2007 to bronze layer
+2026-10-08 02:28:06: --------------------
+2026-10-08 02:28:06: Processing year - 2008
+2026-10-08 02:28:07: Load 2008 to bronze layer
+2026-10-08 02:28:07: --------------------
+2026-10-08 02:28:07: Processing year - 2009
+2026-10-08 02:29:16: Extracting data from https://id.wikipedia.org/wiki/Daftar_tokoh_Indonesia_menurut_kekayaan
+2026-10-08 02:29:16: Processing year - 2006
+2026-10-08 02:29:16: Load 2006 to bronze layer
+2026-10-08 02:29:16: --------------------
+2026-10-08 02:29:16: Processing year - 2007
+2026-10-08 02:29:17: Load 2007 to bronze layer
+2026-10-08 02:29:17: --------------------
+2026-10-08 02:29:17: Processing year - 2008
+2026-10-08 02:29:17: Load 2008 to bronze layer
+2026-10-08 02:29:17: --------------------
+2026-10-08 02:29:17: Processing year - 2009
+2026-10-08 02:30:42: Extracting data from https://id.wikipedia.org/wiki/Daftar_tokoh_Indonesia_menurut_kekayaan
+2026-10-08 02:30:42: Processing year - 2006
+2026-10-08 02:31:01: Extracting data from https://id.wikipedia.org/wiki/Daftar_tokoh_Indonesia_menurut_kekayaan
+2026-10-08 02:31:01: Processing year - 2006
+2026-10-08 02:31:02: Load 2006 to bronze layer
+2026-10-08 02:31:02: --------------------
+2026-10-08 02:31:02: Processing year - 2007
+2026-10-08 02:31:02: Load 2007 to bronze layer
+2026-10-08 02:31:03: --------------------
+2026-10-08 02:31:03: Processing year - 2008
+2026-10-08 02:31:03: Load 2008 to bronze layer
+2026-10-08 02:31:03: --------------------
+2026-10-08 02:31:03: Processing year - 2009
+2026-10-08 02:31:04: Data 2009 not found
+2026-10-08 02:31:04: Processing year - 2010
+2026-10-08 02:31:04: Data 2010 not found
+2026-10-08 02:31:04: Processing year - 2011
+2026-10-08 02:31:04: Load 2011 to bronze layer
+2026-10-08 02:31:05: --------------------
+2026-10-08 02:31:05: Processing year - 2012
+2026-10-08 02:31:05: Data 2012 not found
+2026-10-08 02:31:05: Processing year - 2013
+2026-10-08 02:31:05: Load 2013 to bronze layer
+2026-10-08 02:31:05: --------------------
+2026-10-08 02:31:05: Processing year - 2014
+2026-10-08 02:31:06: Data 2014 not found
+2026-10-08 02:31:06: Processing year - 2015
+2026-10-08 02:31:06: Data 2015 not found
+2026-10-08 02:31:06: Processing year - 2016
+2026-10-08 02:31:07: Data 2016 not found
+2026-10-08 02:31:07: Processing year - 2017
+2026-10-08 02:31:07: Load 2017 to bronze layer
+2026-10-08 02:31:08: --------------------
+2026-10-08 02:31:08: Processing year - 2018
+2026-10-08 02:31:08: Data 2018 not found
+2026-10-08 02:31:08: Processing year - 2019
+2026-10-08 02:31:08: Load 2019 to bronze layer
+2026-10-08 02:31:09: --------------------
+2026-10-08 02:31:09: Processing year - 2020
+2026-10-08 02:31:09: Load 2020 to bronze layer
+2026-10-08 02:31:10: --------------------
+2026-10-08 02:31:10: Processing year - 2021
+2026-10-08 02:31:10: Load 2021 to bronze layer
+2026-10-08 02:31:10: --------------------
+2026-10-08 02:31:10: Processing year - 2022
+2026-10-08 02:31:11: Load 2022 to bronze layer
+2026-10-08 02:31:11: --------------------
+2026-10-08 02:31:11: Processing year - 2023
+2026-10-08 02:31:11: Load 2023 to bronze layer
+2026-10-08 02:31:11: --------------------
+2026-10-08 02:31:11: Processing year - 2024
+2026-10-08 02:31:12: Load 2024 to bronze layer
+2026-10-08 02:31:12: --------------------
+2026-10-08 02:31:12: Processing year - 2025
+2026-10-08 02:31:12: Load 2025 to bronze layer
+2026-10-08 02:31:13: --------------------
+2026-10-08 02:31:13: Extracting Done
+2026-10-08 02:32:28: Extracting data from https://id.wikipedia.org/wiki/Daftar_tokoh_Indonesia_menurut_kekayaan
+2026-10-08 02:32:28: Processing year - 2006
+2026-10-08 02:32:28: Load 2006 to bronze layer
+2026-10-08 02:32:29: --------------------
+2026-10-08 02:32:29: Processing year - 2007
+2026-10-08 02:32:29: Load 2007 to bronze layer
+2026-10-08 02:32:29: --------------------
+2026-10-08 02:32:29: Processing year - 2008
+2026-10-08 02:32:30: Load 2008 to bronze layer
+2026-10-08 02:32:30: --------------------
+2026-10-08 02:32:30: Processing year - 2009
+2026-10-08 02:32:30: Data 2009 not found
+2026-10-08 02:32:30: --------------------
+2026-10-08 02:32:30: Processing year - 2010
+2026-10-08 02:32:31: Data 2010 not found
+2026-10-08 02:32:31: --------------------
+2026-10-08 02:32:31: Processing year - 2011
+2026-10-08 02:32:31: Load 2011 to bronze layer
+2026-10-08 02:32:31: --------------------
+2026-10-08 02:32:31: Processing year - 2012
+2026-10-08 02:32:32: Data 2012 not found
+2026-10-08 02:32:32: --------------------
+2026-10-08 02:32:32: Processing year - 2013
+2026-10-08 02:32:32: Load 2013 to bronze layer
+2026-10-08 02:32:32: --------------------
+2026-10-08 02:32:32: Processing year - 2014
+2026-10-08 02:32:33: Data 2014 not found
+2026-10-08 02:32:33: --------------------
+2026-10-08 02:32:33: Processing year - 2015
+2026-10-08 02:32:33: Data 2015 not found
+2026-10-08 02:32:33: --------------------
+2026-10-08 02:32:33: Processing year - 2016
+2026-10-08 02:32:33: Data 2016 not found
+2026-10-08 02:32:33: --------------------
+2026-10-08 02:32:33: Processing year - 2017
+2026-10-08 02:32:34: Load 2017 to bronze layer
+2026-10-08 02:32:34: --------------------
+2026-10-08 02:32:34: Processing year - 2018
+2026-10-08 02:32:34: Data 2018 not found
+2026-10-08 02:32:34: --------------------
+2026-10-08 02:32:34: Processing year - 2019
+2026-10-08 02:32:35: Load 2019 to bronze layer
+2026-10-08 02:32:35: --------------------
+2026-10-08 02:32:35: Processing year - 2020
+2026-10-08 02:32:35: Load 2020 to bronze layer
+2026-10-08 02:32:36: --------------------
+2026-10-08 02:32:36: Processing year - 2021
+2026-10-08 02:32:36: Load 2021 to bronze layer
+2026-10-08 02:32:37: --------------------
+2026-10-08 02:32:37: Processing year - 2022
+2026-10-08 02:32:37: Load 2022 to bronze layer
+2026-10-08 02:32:37: --------------------
+2026-10-08 02:32:37: Processing year - 2023
+2026-10-08 02:32:38: Load 2023 to bronze layer
+2026-10-08 02:32:38: --------------------
+2026-10-08 02:32:38: Processing year - 2024
+2026-10-08 02:32:38: Load 2024 to bronze layer
+2026-10-08 02:32:38: --------------------
+2026-10-08 02:32:38: Processing year - 2025
+2026-10-08 02:32:39: Load 2025 to bronze layer
+2026-10-08 02:32:39: --------------------
+2026-10-08 02:32:39: Extracting Done
+2026-10-08 02:47:45: Extracting data from https://id.wikipedia.org/wiki/Daftar_tokoh_Indonesia_menurut_kekayaan
+2026-10-08 02:47:45: Processing year - 2006
+2026-10-08 02:47:45: Load 2006 to bronze layer
+2026-10-08 02:47:45: --------------------
+2026-10-08 02:47:45: Extracting Done
+2026-10-08 02:54:46: Extracting data from https://id.wikipedia.org/wiki/Daftar_tokoh_Indonesia_menurut_kekayaan
+2026-10-08 02:54:46: Processing year - 2006
+2026-10-08 02:54:47: Load 2006 to bronze layer
+2026-10-08 02:54:47: --------------------
+2026-10-08 02:54:47: Processing year - 2007
+2026-10-08 02:54:47: Load 2007 to bronze layer
+2026-10-08 02:54:47: --------------------
+2026-10-08 02:54:47: Processing year - 2008
+2026-10-08 02:54:48: Load 2008 to bronze layer
+2026-10-08 02:54:48: --------------------
+2026-10-08 02:54:48: Processing year - 2009
+2026-10-08 02:54:48: Data 2009 not found
+2026-10-08 02:54:48: --------------------
+2026-10-08 02:54:48: Processing year - 2010
+2026-10-08 02:54:49: Data 2010 not found
+2026-10-08 02:54:49: --------------------
+2026-10-08 02:54:49: Processing year - 2011
+2026-10-08 02:54:49: Load 2011 to bronze layer
+2026-10-08 02:54:49: --------------------
+2026-10-08 02:54:49: Processing year - 2012
+2026-10-08 02:54:50: Data 2012 not found
+2026-10-08 02:54:50: --------------------
+2026-10-08 02:54:50: Processing year - 2013
+2026-10-08 02:54:50: Load 2013 to bronze layer
+2026-10-08 02:54:50: --------------------
+2026-10-08 02:54:50: Processing year - 2014
+2026-10-08 02:54:51: Data 2014 not found
+2026-10-08 02:54:51: --------------------
+2026-10-08 02:54:51: Processing year - 2015
+2026-10-08 02:54:51: Data 2015 not found
+2026-10-08 02:54:51: --------------------
+2026-10-08 02:54:51: Processing year - 2016
+2026-10-08 02:54:51: Data 2016 not found
+2026-10-08 02:54:51: --------------------
+2026-10-08 02:54:51: Processing year - 2017
+2026-10-08 02:54:52: Load 2017 to bronze layer
+2026-10-08 02:54:52: --------------------
+2026-10-08 02:54:52: Processing year - 2018
+2026-10-08 02:54:52: Data 2018 not found
+2026-10-08 02:54:52: --------------------
+2026-10-08 02:54:52: Processing year - 2019
+2026-10-08 02:54:53: Load 2019 to bronze layer
+2026-10-08 02:54:53: --------------------
+2026-10-08 02:54:53: Processing year - 2020
+2026-10-08 02:54:53: Load 2020 to bronze layer
+2026-10-08 02:54:54: --------------------
+2026-10-08 02:54:54: Processing year - 2021
+2026-10-08 02:54:54: Load 2021 to bronze layer
+2026-10-08 02:54:55: --------------------
+2026-10-08 02:54:55: Processing year - 2022
+2026-10-08 02:54:55: Load 2022 to bronze layer
+2026-10-08 02:54:55: --------------------
+2026-10-08 02:54:55: Processing year - 2023
+2026-10-08 02:54:56: Load 2023 to bronze layer
+2026-10-08 02:54:56: --------------------
+2026-10-08 02:54:56: Processing year - 2024
+2026-10-08 02:54:56: Load 2024 to bronze layer
+2026-10-08 02:54:56: --------------------
+2026-10-08 02:54:56: Processing year - 2025
+2026-10-08 02:54:57: Load 2025 to bronze layer
+2026-10-08 02:54:57: --------------------
+2026-10-08 02:54:57: Extracting Done
+2026-10-08 02:57:53: Extracting data from https://id.wikipedia.org/wiki/Daftar_tokoh_Indonesia_menurut_kekayaan
+2026-10-08 02:57:53: Processing year - 2006
+2026-10-08 02:57:54: Load 2006 to bronze layer
+2026-10-08 02:57:54: --------------------
+2026-10-08 02:57:54: Processing year - 2007
+2026-10-08 02:57:54: Load 2007 to bronze layer
+2026-10-08 02:57:55: --------------------
+2026-10-08 02:57:55: Processing year - 2008
+2026-10-08 02:57:55: Load 2008 to bronze layer
+2026-10-08 02:57:55: --------------------
+2026-10-08 02:57:55: Processing year - 2009
+2026-10-08 02:57:56: Data 2009 not found
+2026-10-08 02:57:56: --------------------
+2026-10-08 02:57:56: Processing year - 2010
+2026-10-08 02:57:56: Data 2010 not found
+2026-10-08 02:57:56: --------------------
+2026-10-08 02:57:56: Processing year - 2011
+2026-10-08 02:57:56: Load 2011 to bronze layer
+2026-10-08 02:57:56: --------------------
+2026-10-08 02:57:56: Processing year - 2012
+2026-10-08 02:57:57: Data 2012 not found
+2026-10-08 02:57:57: --------------------
+2026-10-08 02:57:57: Processing year - 2013
+2026-10-08 02:57:57: Load 2013 to bronze layer
+2026-10-08 02:57:57: --------------------
+2026-10-08 02:57:57: Processing year - 2014
+2026-10-08 02:57:58: Data 2014 not found
+2026-10-08 02:57:58: --------------------
+2026-10-08 02:57:58: Processing year - 2015
+2026-10-08 02:57:58: Data 2015 not found
+2026-10-08 02:57:58: --------------------
+2026-10-08 02:57:58: Processing year - 2016
+2026-10-08 02:57:58: Data 2016 not found
+2026-10-08 02:57:58: --------------------
+2026-10-08 02:57:58: Processing year - 2017
+2026-10-08 02:57:59: Load 2017 to bronze layer
+2026-10-08 02:57:59: --------------------
+2026-10-08 02:57:59: Processing year - 2018
+2026-10-08 02:58:00: Data 2018 not found
+2026-10-08 02:58:00: --------------------
+2026-10-08 02:58:00: Processing year - 2019
+2026-10-08 02:58:00: Load 2019 to bronze layer
+2026-10-08 02:58:00: --------------------
+2026-10-08 02:58:00: Processing year - 2020
+2026-10-08 02:58:01: Load 2020 to bronze layer
+2026-10-08 02:58:01: --------------------
+2026-10-08 02:58:01: Processing year - 2021
+2026-10-08 02:58:02: Load 2021 to bronze layer
+2026-10-08 02:58:02: --------------------
+2026-10-08 02:58:02: Processing year - 2022
+2026-10-08 02:58:02: Load 2022 to bronze layer
+2026-10-08 02:58:02: --------------------
+2026-10-08 02:58:02: Processing year - 2023
+2026-10-08 02:58:03: Load 2023 to bronze layer
+2026-10-08 02:58:03: --------------------
+2026-10-08 02:58:03: Processing year - 2024
+2026-10-08 02:58:03: Load 2024 to bronze layer
+2026-10-08 02:58:03: --------------------
+2026-10-08 02:58:03: Processing year - 2025
+2026-10-08 02:58:04: Load 2025 to bronze layer
+2026-10-08 02:58:04: --------------------
+2026-10-08 02:58:04: Extracting Done
+2026-10-08 03:01:10: Extracting data from https://id.wikipedia.org/wiki/Daftar_tokoh_Indonesia_menurut_kekayaan
+2026-10-08 03:01:10: Processing year - 2006
+2026-10-08 03:01:11: Load 2006 to bronze layer
+2026-10-08 03:01:11: --------------------
+2026-10-08 03:01:11: Processing year - 2007
+2026-10-08 03:01:11: Load 2007 to bronze layer
+2026-10-08 03:01:12: --------------------
+2026-10-08 03:01:12: Processing year - 2008
+2026-10-08 03:01:12: Load 2008 to bronze layer
+2026-10-08 03:01:12: --------------------
+2026-10-08 03:01:12: Processing year - 2009
+2026-10-08 03:01:13: Data 2009 not found
+2026-10-08 03:01:13: --------------------
+2026-10-08 03:01:13: Processing year - 2010
+2026-10-08 03:01:13: Data 2010 not found
+2026-10-08 03:01:13: --------------------
+2026-10-08 03:01:13: Processing year - 2011
+2026-10-08 03:01:13: Load 2011 to bronze layer
+2026-10-08 03:01:13: --------------------
+2026-10-08 03:01:13: Processing year - 2012
+2026-10-08 03:01:14: Data 2012 not found
+2026-10-08 03:01:14: --------------------
+2026-10-08 03:01:14: Processing year - 2013
+2026-10-08 03:01:14: Load 2013 to bronze layer
+2026-10-08 03:01:14: --------------------
+2026-10-08 03:01:14: Processing year - 2014
+2026-10-08 03:01:15: Data 2014 not found
+2026-10-08 03:01:15: --------------------
+2026-10-08 03:01:15: Processing year - 2015
+2026-10-08 03:01:15: Data 2015 not found
+2026-10-08 03:01:15: --------------------
+2026-10-08 03:01:15: Processing year - 2016
+2026-10-08 03:01:16: Data 2016 not found
+2026-10-08 03:01:16: --------------------
+2026-10-08 03:01:16: Processing year - 2017
+2026-10-08 03:01:16: Load 2017 to bronze layer
+2026-10-08 03:01:16: --------------------
+2026-10-08 03:01:16: Processing year - 2018
+2026-10-08 03:01:17: Data 2018 not found
+2026-10-08 03:01:17: --------------------
+2026-10-08 03:01:17: Processing year - 2019
+2026-10-08 03:01:17: Load 2019 to bronze layer
+2026-10-08 03:01:18: --------------------
+2026-10-08 03:01:18: Processing year - 2020
+2026-10-08 03:01:18: Load 2020 to bronze layer
+2026-10-08 03:01:19: --------------------
+2026-10-08 03:01:19: Processing year - 2021
+2026-10-08 03:01:19: Load 2021 to bronze layer
+2026-10-08 03:01:19: --------------------
+2026-10-08 03:01:19: Processing year - 2022
+2026-10-08 03:01:20: Load 2022 to bronze layer
+2026-10-08 03:01:20: --------------------
+2026-10-08 03:01:20: Processing year - 2023
+2026-10-08 03:01:20: Load 2023 to bronze layer
+2026-10-08 03:01:20: --------------------
+2026-10-08 03:01:20: Processing year - 2024
+2026-10-08 03:01:21: Load 2024 to bronze layer
+2026-10-08 03:01:21: --------------------
+2026-10-08 03:01:21: Processing year - 2025
+2026-10-08 03:01:21: Load 2025 to bronze layer
+2026-10-08 03:01:22: --------------------
+2026-10-08 03:01:22: Extracting Done
